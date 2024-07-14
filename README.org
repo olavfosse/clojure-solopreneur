@@ -1,15 +1,27 @@
 * Clojure Solopreneours Meetup
 ** Meetup 1: Hello, World!
+
+<2024-07-13 Sat>
+
 The first Clojure Solopreneours meetup had 8 participants and lasted
 for around 3 hours!
 
 We started with an introduction round where everyone introduced
-themselves and what they're working on.
+themselves and what they're working on. Then we ended with some open
+conversation.
+
+During the stream a Slack channel [[https://clojurians.slack.com/archives/C07D04A7K7A][#solopreneur]] was created which as of
+writing has 19 (!) members 😅. There seems to be a lot of interest so I'm
+planning to host a continuation <2024-07-20 Sat> 19:00 UTC. The plan
+for that one is TBD so suggestions are greatly appreciated! If anyone
+wants to hold a presentation or something, please do say so in the
+channel 😄.
 
 I'm writing these notes after the fact, so my memory of each
-presentation is so so. Feel free to PR a summary of your intro down
-below :^). If you're not familiar with org syntax, just write as plain
-text and I (Olav) will fix any markup issues.
+presentation is so so. I think it's best if each presenter writes
+their own summary, so feel free to PR a summary of your intro down
+below :^). If you're not familiar with org syntax, just write in plain
+text and I will fix any markup issues.
 
 - Olav
   #+begin_quote
@@ -27,5 +39,3 @@ text and I (Olav) will fix any markup issues.
 
   Turning it into a proper product is another story entirely 😅
   #+end_quote
-
-** Meetup 2: ___________
