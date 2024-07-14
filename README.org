@@ -1,9 +1,9 @@
-* Clojure Solopreneours Meetup
+* Clojure Solopreneur Meetup
 ** Meetup 1: Hello, World!
 
 <2024-07-13 Sat>
 
-The first Clojure Solopreneours meetup had 8 participants and lasted
+The first Clojure Solopreneur meetup had 8 participants and lasted
 for around 3 hours!
 
 We started with an introduction round where everyone introduced
