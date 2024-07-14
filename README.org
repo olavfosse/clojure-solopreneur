@@ -1,0 +1,31 @@
+* Clojure Solopreneours Meetup
+** Meetup 1: Hello, World!
+The first Clojure Solopreneours meetup had 8 participants and lasted
+for around 3 hours!
+
+We started with an introduction round where everyone introduced
+themselves and what they're working on.
+
+I'm writing these notes after the fact, so my memory of each
+presentation is so so. Feel free to PR a summary of your intro down
+below :^). If you're not familiar with org syntax, just write as plain
+text and I (Olav) will fix any markup issues.
+
+- Olav
+  #+begin_quote
+  I talked about my SaaS https://anymentions.ai, which is a tool to
+  connect startups with the people who's problems they're trying to
+  solve. Concretely, it notifies users whenever a post matching a
+  given problem description is posted on Reddit.
+
+  AnyMentions originated as an internal tool I built for a previous
+  startup saas, we where working on the problem of landlord/tenant
+  conflicts, and therefore wanted to reach out to everyone on Reddit
+  talking about this. I thought to myself "it wouldn't be too hard to
+  build a little Clojure thing to ping us whenever someone posts about
+  this" and I had it working within the week.
+
+  Turning it into a proper product is another story entirely 😅
+  #+end_quote
+
+** Meetup 2: ___________
