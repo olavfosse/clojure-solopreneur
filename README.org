@@ -39,3 +39,27 @@ text and I will fix any markup issues.
 
   Turning it into a proper product is another story entirely 😅
   #+end_quote
+
+** Meetup 2: Hello again, World!
+
+<2024-07-20 Sat>
+
+More people came by to introduce themselves! Ended with some live programming.
+
+** Meetup 3
+
+<2024-07-27 Sat>
+
+Casual meetup. We talked about what's new with our projects. Gagi and Hadil stayed and helped me with some optimization, which was quite fruitful:
+
+#+begin_src clojure
+  (with-out-str
+    (time
+     (def vec:result (mapv #(apply cosine-similarity %) vec:benchmark-data))))
+  "\"Elapsed time: 4978.064417 msecs\"\n"
+
+  (with-out-str
+    (time
+     (def double1:result (mapv #(apply double1:cosine-similarity %) double1:benchmark-data))))
+  "\"Elapsed time: 51.028519 msecs\"\n"
+#+end_src
